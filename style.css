@@ -1,0 +1,64 @@
+body {
+    text-align: center;
+    font-family:'Sniglet';
+}
+h1 {
+    font-size: 35px;
+    color:red;
+    font-family:'Sniglet';
+}
+#Apps{
+ width:100%;
+    height:800px;
+    background-color:#2a7afa;
+    font-family:'Sniglet';
+}
+#games{
+    width:100%;
+        height:800px;
+    background-color:aquamarine;
+    font-family:'Sniglet';
+}
+#chatbot {
+    width:100%;
+    height:800px;
+    background-color:orangered;
+    font-family:'Sniglet';
+}
+img {
+    transition: transform .2s;
+}
+img:hover {
+transform:scale(0.9);
+}
+.line {
+    height:12px;
+    background-color:red;
+    width: 450px;
+    margin:10px auto;
+}
+#contacts {
+background-color: yellow;
+}
+.contacts h3{
+ color: red;
+}
+.contacts1 iframe {
+    width: 100%;
+}
+#myCarousel {
+ background-color:aqua;   
+}
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color:red;
+    font-size:20px;
+}
+#myCarouse2 {
+    background-color:red;
+}
